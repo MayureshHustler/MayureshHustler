@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayureshhustler&label=Profile%20views&color=0e75b6&style=flat" alt="mayureshhustler" /> </p>
 
-- Learning **TypeScript**
+- Learning **TypeScript , React , Node.js**
 
 - Projects: [https://github.com/MayureshHustler?tab=repositories](https://github.com/MayureshHustler?tab=repositories)
 
