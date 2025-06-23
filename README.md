@@ -1,5 +1,5 @@
 <h1 align="center"> This is, Mayureshwar Nagarsoge</h1>
-<h3 align="center">ADYPSOE | BE(TY) CS</h3>
+<h3 align="center">ADYPSOE | BE CS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayureshhustler&label=Profile%20views&color=0e75b6&style=flat" alt="mayureshhustler" /> </p>
 
